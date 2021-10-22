@@ -1,0 +1,32 @@
+[28-Sep-2021 01:14:02 UTC] PHP Notice:  Undefined index: select_price in /home/m56a6bztcxoa/public_html/masterthecoder.com/contact.php on line 16
+[28-Sep-2021 01:14:02 UTC] PHP Notice:  Undefined index: select_service in /home/m56a6bztcxoa/public_html/masterthecoder.com/contact.php on line 17
+[28-Sep-2021 01:14:02 UTC] PHP Notice:  Undefined index: subject in /home/m56a6bztcxoa/public_html/masterthecoder.com/contact.php on line 18
+[28-Sep-2021 01:14:02 UTC] PHP Notice:  Undefined index: verify in /home/m56a6bztcxoa/public_html/masterthecoder.com/contact.php on line 20
+[28-Sep-2021 01:14:02 UTC] PHP Deprecated:  Function get_magic_quotes_gpc() is deprecated in /home/m56a6bztcxoa/public_html/masterthecoder.com/contact.php on line 38
+[05-Oct-2021 09:41:48 UTC] PHP Notice:  Undefined index: select_price in /home/m56a6bztcxoa/public_html/masterthecoder.com/contact.php on line 16
+[05-Oct-2021 09:41:48 UTC] PHP Notice:  Undefined index: select_service in /home/m56a6bztcxoa/public_html/masterthecoder.com/contact.php on line 17
+[05-Oct-2021 09:41:48 UTC] PHP Notice:  Undefined index: subject in /home/m56a6bztcxoa/public_html/masterthecoder.com/contact.php on line 18
+[05-Oct-2021 09:41:48 UTC] PHP Notice:  Undefined index: verify in /home/m56a6bztcxoa/public_html/masterthecoder.com/contact.php on line 20
+[05-Oct-2021 09:41:48 UTC] PHP Deprecated:  Function get_magic_quotes_gpc() is deprecated in /home/m56a6bztcxoa/public_html/masterthecoder.com/contact.php on line 38
+[10-Oct-2021 05:31:24 UTC] PHP Notice:  Undefined index: select_price in /home/m56a6bztcxoa/public_html/masterthecoder.com/contact.php on line 16
+[10-Oct-2021 05:31:24 UTC] PHP Notice:  Undefined index: select_service in /home/m56a6bztcxoa/public_html/masterthecoder.com/contact.php on line 17
+[10-Oct-2021 05:31:24 UTC] PHP Notice:  Undefined index: subject in /home/m56a6bztcxoa/public_html/masterthecoder.com/contact.php on line 18
+[10-Oct-2021 05:31:24 UTC] PHP Notice:  Undefined index: verify in /home/m56a6bztcxoa/public_html/masterthecoder.com/contact.php on line 20
+[10-Oct-2021 05:31:24 UTC] PHP Deprecated:  Function get_magic_quotes_gpc() is deprecated in /home/m56a6bztcxoa/public_html/masterthecoder.com/contact.php on line 38
+[10-Oct-2021 12:49:50 UTC] PHP Notice:  Undefined index: select_price in /home/m56a6bztcxoa/public_html/masterthecoder.com/contact.php on line 16
+[10-Oct-2021 12:49:50 UTC] PHP Notice:  Undefined index: select_service in /home/m56a6bztcxoa/public_html/masterthecoder.com/contact.php on line 17
+[10-Oct-2021 12:49:50 UTC] PHP Notice:  Undefined index: subject in /home/m56a6bztcxoa/public_html/masterthecoder.com/contact.php on line 18
+[10-Oct-2021 12:49:50 UTC] PHP Notice:  Undefined index: verify in /home/m56a6bztcxoa/public_html/masterthecoder.com/contact.php on line 20
+[10-Oct-2021 12:49:50 UTC] PHP Deprecated:  Function get_magic_quotes_gpc() is deprecated in /home/m56a6bztcxoa/public_html/masterthecoder.com/contact.php on line 38
+[20-Oct-2021 10:34:40 UTC] PHP Notice:  Undefined index: first_name in /home/m56a6bztcxoa/public_html/masterthecoder.com/contact.php on line 12
+[20-Oct-2021 10:34:40 UTC] PHP Notice:  Undefined index: last_name in /home/m56a6bztcxoa/public_html/masterthecoder.com/contact.php on line 13
+[20-Oct-2021 10:34:40 UTC] PHP Notice:  Undefined index: select_price in /home/m56a6bztcxoa/public_html/masterthecoder.com/contact.php on line 16
+[20-Oct-2021 10:34:40 UTC] PHP Notice:  Undefined index: select_service in /home/m56a6bztcxoa/public_html/masterthecoder.com/contact.php on line 17
+[20-Oct-2021 10:34:40 UTC] PHP Notice:  Undefined index: subject in /home/m56a6bztcxoa/public_html/masterthecoder.com/contact.php on line 18
+[20-Oct-2021 10:34:40 UTC] PHP Notice:  Undefined index: verify in /home/m56a6bztcxoa/public_html/masterthecoder.com/contact.php on line 20
+[20-Oct-2021 13:25:15 UTC] PHP Notice:  Undefined index: first_name in /home/m56a6bztcxoa/public_html/masterthecoder.com/contact.php on line 12
+[20-Oct-2021 13:25:15 UTC] PHP Notice:  Undefined index: last_name in /home/m56a6bztcxoa/public_html/masterthecoder.com/contact.php on line 13
+[20-Oct-2021 13:25:15 UTC] PHP Notice:  Undefined index: select_price in /home/m56a6bztcxoa/public_html/masterthecoder.com/contact.php on line 16
+[20-Oct-2021 13:25:15 UTC] PHP Notice:  Undefined index: select_service in /home/m56a6bztcxoa/public_html/masterthecoder.com/contact.php on line 17
+[20-Oct-2021 13:25:15 UTC] PHP Notice:  Undefined index: subject in /home/m56a6bztcxoa/public_html/masterthecoder.com/contact.php on line 18
+[20-Oct-2021 13:25:15 UTC] PHP Notice:  Undefined index: verify in /home/m56a6bztcxoa/public_html/masterthecoder.com/contact.php on line 20
